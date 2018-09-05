@@ -5,7 +5,7 @@
     "url": "mongodb://root:Daiyeulinh1205!@ds145752.mlab.com:45752/javis",
     "database": "javis",
     "password": "Daiyeulinh1205!",
-    "name": "javis",
+    "name": "db",
     "user": "root",
     "connector": "mongodb"
   }
